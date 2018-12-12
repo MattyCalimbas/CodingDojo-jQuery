@@ -1,6 +1,6 @@
 # Ninja to Cat (Coding Dojo jQuery Assignment)
 
-Image of a ninja changes to an image of a cat using jQuery
+A simple HTML page that displays an image of a ninja split into 5 hidden but clickable sections that reveal an image of a cat using jQuery.
 
 Library Utilized:
 <ul>
