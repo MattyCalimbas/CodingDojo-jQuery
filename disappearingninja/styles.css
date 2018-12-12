@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    margin: auto;
+    width: 1000px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+#images{
+    display:inline-block;
+    padding: 10px;
+}
+button{
+    width: 80px;
+    padding: 5px 20px;
+    background-color: green;
+    box-shadow: 0px 10px 10px 0px black;
+}
